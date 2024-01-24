@@ -1,0 +1,6 @@
+1.First, destructure the website
+2.
+
+LIbrarie:
+    Locomotive js
+    Favicon.io to generate icons
